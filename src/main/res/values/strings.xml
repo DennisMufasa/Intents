@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intents_Reloaded</string>
+    <string name="textView">MfsApp</string>
+    <string name="hintForName">ENTER YOUR NAME</string>
+    <string name="buttonSend">SEND</string>
+    <string name="PasswordField">ENTER YOUR PASSWORD</string>
+    <string name="loginButton">LOGIN</string>
+    <string name="backButton">BACK</string>
+    <string name="backButton2">BACK</string>
+
+</resources>
